@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-21T10:39:03 EST" name="WebStaurant Test" finished-at="2020-01-21T10:40:41 EST" duration-ms="98085">
+    <groups>
+    </groups>
+    <test started-at="2020-01-21T10:39:03 EST" name="Search and cartPage test" finished-at="2020-01-21T10:40:41 EST" duration-ms="98085">
+      <class name="com.webstaurant.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.webstaurant.testcases.HomePageTest@1329eff]" started-at="2020-01-21T10:39:03 EST" name="setUp" finished-at="2020-01-21T10:39:18 EST" duration-ms="15128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkTitleOfAllItems()[pri:1, instance:com.webstaurant.testcases.HomePageTest@1329eff]" started-at="2020-01-21T10:39:18 EST" name="checkTitleOfAllItems" finished-at="2020-01-21T10:40:13 EST" duration-ms="54140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitleOfAllItems -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.webstaurant.testcases.HomePageTest@1329eff]" started-at="2020-01-21T10:40:13 EST" name="tearDown" finished-at="2020-01-21T10:40:13 EST" duration-ms="739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.webstaurant.testcases.HomePageTest@1329eff]" started-at="2020-01-21T10:40:13 EST" name="setUp" finished-at="2020-01-21T10:40:27 EST" duration-ms="13971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addTheLastFoundItemToCard()[pri:2, instance:com.webstaurant.testcases.HomePageTest@1329eff]" started-at="2020-01-21T10:40:27 EST" name="addTheLastFoundItemToCard" finished-at="2020-01-21T10:40:41 EST" duration-ms="13279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTheLastFoundItemToCard -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.webstaurant.testcases.HomePageTest@1329eff]" started-at="2020-01-21T10:40:41 EST" name="tearDown" finished-at="2020-01-21T10:40:41 EST" duration-ms="778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.webstaurant.testcases.HomePageTest -->
+    </test> <!-- Search and cartPage test -->
+  </suite> <!-- WebStaurant Test -->
+</testng-results>
